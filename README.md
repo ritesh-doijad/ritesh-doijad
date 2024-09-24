@@ -29,13 +29,12 @@ I'm always looking to expand my knowledge and stay up-to-date with the latest we
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: [www.linkedin.com/in/ritesh-doijad-2a43aa2a6]
+- Email: riteshdoijad284@gmail.com
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-doijad&show_icons=true&theme=radical)
 
 ## 🤝 Open to Collaborations
 
