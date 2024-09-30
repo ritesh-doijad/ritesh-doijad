@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/ritesh-doijad-2a43aa2a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/doijad_rit91300?t=luqfVyLJr3pUmIfr1yDQng&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm a final year Computer Science Engineering student at GCOE with a passion for web development. I love creating responsive and user-friendly web applications using modern technologies.</h3>**
+ **<h3 align="left">🚀 I'm a final year Computer Science Engineering student at GCOEC with a passion for web development. I love creating responsive and user-friendly web applications using modern technologies.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
