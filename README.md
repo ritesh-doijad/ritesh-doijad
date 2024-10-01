@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new event management  platform using MERN Stack**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+
 
  **<h3 align="left">Skills</h3>**
 
