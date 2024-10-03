@@ -1,10 +1,10 @@
-![👋 Hi, my name is Ritesh Doijad 😎](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Ritesh Doijad 😎👊](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Ritesh Doijad 😎
+        👋 Hi, my name is Ritesh Doijad 😎👊
       </h1>
     </summary>
   </ul>
@@ -18,7 +18,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new event management  platform using MERN Stack**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB**
+- 💬 Ask me about: **💡 JavaScript, React, Redux js**
 
 
  **<h3 align="left">Skills</h3>**
