@@ -36,3 +36,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-doijad&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+# Achivements
+[![An image of @riteshdoijad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riteshdoijad)](https://holopin.io/@riteshdoijad)
+
